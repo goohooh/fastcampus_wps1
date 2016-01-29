@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/*SeunghyunKim/ex.py" afterPath="$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해/ex.py" afterPath="$PROJECT_DIR$/*SeunghyunKim/1st_week_Understanding of Computers/ex.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fastcampus_wps1.iws" />
@@ -115,7 +115,7 @@
         </entry>
       </file>
       <file leaf-file-name="ex.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해/ex.py">
+        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/1st_week_Understanding of Computers/ex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -362,10 +362,6 @@
               <option name="myItemId" value="*SeunghyunKim" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1st_week_컴퓨터의 이해" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -382,11 +378,11 @@
       <recent name="$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/*SeunghyunKim/6th_Week_Front-end Programming" />
       <recent name="$PROJECT_DIR$/YongseokSoh" />
       <recent name="$PROJECT_DIR$/SunbaePark" />
       <recent name="$PROJECT_DIR$/YechanKim" />
       <recent name="$PROJECT_DIR$/SeungkwonPark" />
-      <recent name="$PROJECT_DIR$/SeongpilLee" />
     </key>
   </component>
   <component name="RunManager">
@@ -542,7 +538,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454036298561</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1454036349363</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1454036349363</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -685,7 +687,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해/ex.py">
+    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/1st_week_Understanding of Computers/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
