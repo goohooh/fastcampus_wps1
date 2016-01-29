@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*SeunghyunKim/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*SeunghyunKim/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*SeunghyunKim/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*SeunghyunKim/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*SeunghyunKim/6-7th_Week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*SeunghyunKim/8-12th_week_Back-end Programming/ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*SeunghyunKim/Project_ProjectName/ex.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fastcampus_wps1.iws" />
@@ -29,98 +24,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YechanKim/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SunbaePark/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YongseokSoh/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/1st_week_Understanding of Computers/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/2nd_week_Python Basic/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/3rd_week_Linux &amp; Django/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/4th_week_Data Structure/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/8-12th_week_Back-end Programming/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ex.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/6-7th_Week_Front-end Programming/ex.py">
+        <entry file="file://$PROJECT_DIR$/*SeunghyunKim/Project_ProjectName/ex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -368,6 +273,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Project_ProjectName" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcampus_wps1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcampus_wps1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="*SeunghyunKim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="8-12th_week_Back-end Programming" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -386,7 +309,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="6-7th_Week_Front-end Programming" />
+              <option name="myItemId" value="6-7th_week_Front-end Programming" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -495,11 +418,11 @@
       <recent name="$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/*SeunghyunKim/Project_ProjectName" />
       <recent name="$PROJECT_DIR$/*SeunghyunKim/6-7th_Week_Front-end Programming" />
       <recent name="$PROJECT_DIR$/*SeunghyunKim/8-12th_week_Back-end Programming" />
       <recent name="$PROJECT_DIR$/*SeunghyunKim/5th_week_Algorithm" />
       <recent name="$PROJECT_DIR$/*SeunghyunKim/4th_week_Data Structure" />
-      <recent name="$PROJECT_DIR$/*SeunghyunKim/3rd_week_Linux &amp; Django" />
     </key>
   </component>
   <component name="RunManager">
@@ -667,7 +590,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454044048380</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1454044097016</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1454044097016</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -850,6 +779,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/6-7th_week_Front-end Programming/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/*SeunghyunKim/8-12th_week_Back-end Programming/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -858,7 +795,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/6-7th_Week_Front-end Programming/ex.py">
+    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/Project_ProjectName/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
