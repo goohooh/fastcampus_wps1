@@ -2,40 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/8th_week_Software Engineering/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/9-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YooDonghyeon/9-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/*KimSeunghyun/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/9-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/8th_week_Software Engineering/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/8th_week_Software Engineering/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/9-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/8th_week_Software Engineering/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/8th_week_Software Engineering/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/8th_week_Software Engineering/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/8th_week_Software Engineering/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/8-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/8th_week_Software Engineering/ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/Project_ProjectName/1_ProjectName_Idea.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/Project_ProjectName/1_ProjectName_Idea.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/1_ProjectName_Idea1.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/1_ProjectName_Idea2.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/Project_ProjectName/1_ProjectName_Idea.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/Project_ProjectName/1_ProjectName_Idea.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/Project_ProjectName/1_ProjectName_Idea.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/Project_ProjectName/1_ProjectName_Idea.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/Project_ProjectName/1_ProjectName_Idea.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/1_ProjectName_Idea1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/1_ProjectName_Idea2.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/Project_ProjectName/ProjectName_Idea.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/Project_ProjectName/1_ProjectName_Idea.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YooDonghyeon/Project_ProjectName/1_ProjectName_Idea.key" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HanAhreum/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HanMinsoo/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KimHanwool/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KimYechan/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeSeongpil/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ParkSeungkwon/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SeoEunjung/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SohYongseok/Project_ProjectName/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/YooDonghyeon/Project_ProjectName/ex.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fastcampus_wps1.iws" />
@@ -56,108 +48,7 @@
     <favorites_list name="fastcampus_wps1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeonMyeonghoon/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HanMinsoo/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KimHanwool/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KimYechan/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeeJeonghyeon/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeeSeongpil/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParkSeungkwon/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParkSunbae/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SeoEunjung/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SohYongseok/8th_week_Software Engineering/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -236,17 +127,20 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SohYongseok" />
-      <recent name="$PROJECT_DIR$/SeoEunjung" />
-      <recent name="$PROJECT_DIR$/ParkSunbae" />
-      <recent name="$PROJECT_DIR$/ParkSeungkwon" />
-      <recent name="$PROJECT_DIR$/LeeSeongpil" />
+      <recent name="$PROJECT_DIR$/ParkSunbae/Project_ProjectName" />
+      <recent name="$PROJECT_DIR$/HanMinsoo/Project_ProjectName" />
+      <recent name="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName" />
+      <recent name="$PROJECT_DIR$/LeeJeonghyeon/Project_ProjectName" />
+      <recent name="$PROJECT_DIR$/LeeSeongpil/Project_ProjectName" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/KimYechan/Project_ProjectName" />
+      <recent name="$PROJECT_DIR$/HanAhreum/Project_ProjectName" />
+      <recent name="$PROJECT_DIR$/*SeunghyunKim/1st_week_컴퓨터의 이해" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ex">
@@ -469,7 +363,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454045213897</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <created>1454046756749</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1454046756749</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -478,22 +378,22 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -520,7 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,7 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -552,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -752,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
