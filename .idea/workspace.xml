@@ -2,102 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DonghyeonYoo/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DonghyeonYoo/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DonghyeonYoo/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DonghyeonYoo/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EunjungSeo/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanwoolKim/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonghyeonLee/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinsooHan/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyeonghoonJeon/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeongpilLee/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeungkwonPark/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunbaePark/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YechanKim/Project_ProjectName/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/1st_week_Understanding of Computers/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/2nd_week_Python Basic/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/4th_week_Data Structure/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/5th_week_Algorithm/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/6-7th_week_Front-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/8-12th_week_Back-end Programming/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YongseokSoh/Project_ProjectName/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AhreumHan/ex.py" afterPath="$PROJECT_DIR$/DonghyeonYoo/4th_week_Data Structure/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DonghyeonYoo/ex.py" afterPath="$PROJECT_DIR$/DonghyeonYoo/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/EungjungSeo/ex.py" afterPath="$PROJECT_DIR$/DonghyeonYoo/2nd_week_Python Basic/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HanwoolKim/ex.py" afterPath="$PROJECT_DIR$/DonghyeonYoo/1st_week_Understanding of Computers/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonghyeonLee/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/Project_ProjectName/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MinsooHan/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/8-12th_week_Back-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyeonghoonJeon/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/6-7th_week_Front-end Programming/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SeongpilLee/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/5th_week_Algorithm/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SeungkwonPark/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/4th_week_Data Structure/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunbaePark/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/3rd_week_Linux &amp; Django/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/YechanKim/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/2nd_week_Python Basic/ex.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/YongseokSoh/ex.py" afterPath="$PROJECT_DIR$/AhreumHan/1st_week_Understanding of Computers/ex.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-end Programming/ex2.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fastcampus_wps1.iws" />
@@ -119,98 +24,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SunbaePark/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SeungkwonPark/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YongseokSoh/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EunjungSeo/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AhreumHan/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DonghyeonYoo/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeonghyeonLee/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MinsooHan/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyeonghoonJeon/5th_week_Algorithm/ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ex.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SeongpilLee/5th_week_Algorithm/ex.py">
+        <entry file="file://$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-end Programming/ex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -235,6 +50,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/*SeunghyunKim/ex.py" />
+        <option value="$PROJECT_DIR$/*SeunghyunKim/6-7th_week_Front-end Programming/ex.py" />
+        <option value="$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-end Programming/ex.py" />
+        <option value="$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-end Programming/ex2.py" />
       </list>
     </option>
   </component>
@@ -286,6 +104,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcampus_wps1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcampus_wps1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="*KimSeunghyun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -308,7 +140,24 @@
       <recent name="$PROJECT_DIR$/*SeunghyunKim/8-12th_week_Back-end Programming" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ex">
+    <configuration default="false" name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/*SeunghyunKim/6-7th_week_Front-end Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fastcampus_wps1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/*SeunghyunKim/6-7th_week_Front-end Programming/ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -431,6 +280,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.ex" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.ex" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -485,7 +342,19 @@
       <option name="project" value="LOCAL" />
       <updated>1454044167972</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1454044549497</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1454044549497</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1454045072622</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1454045072622</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -495,21 +364,21 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -532,7 +401,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/1st_week_Understanding of Computers/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/1st_week_Understanding of Computers/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -540,7 +409,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/2nd_week_Python Basic/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -548,7 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/3rd_week_Linux &amp; Django/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/3rd_week_Linux &amp; Django/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -556,7 +425,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/4th_week_Data Structure/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/4th_week_Data Structure/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -564,7 +433,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -572,7 +441,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/6-7th_week_Front-end Programming/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/8-12th_week_Back-end Programming/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -580,7 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/8-12th_week_Back-end Programming/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/Project_ProjectName/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -588,7 +457,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*SeunghyunKim/Project_ProjectName/ex.py">
+    <entry file="file://$PROJECT_DIR$/KimYechan/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -596,7 +465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YechanKim/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/KimHanwool/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -604,7 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanwoolKim/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/ParkSunbae/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -612,7 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SunbaePark/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/ParkSeungkwon/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -620,7 +489,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeungkwonPark/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/SohYongseok/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -628,7 +497,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YongseokSoh/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/SeoEunjung/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -636,7 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EunjungSeo/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/HanAhreum/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -644,7 +513,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AhreumHan/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/YooDonghyeon/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -652,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DonghyeonYoo/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/LeeJeonghyeon/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -660,7 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeonghyeonLee/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/HanMinsoo/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -668,7 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MinsooHan/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/JeonMyeonghoon/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -676,7 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyeonghoonJeon/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/LeeSeongpil/5th_week_Algorithm/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -684,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeongpilLee/5th_week_Algorithm/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-end Programming/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
