@@ -1,62 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/1st_week_UnderstandingOfComputers/HanAhreum_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/1st_week_UnderstandingOfComputers/HanAhreum_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/1st_week_UnderstandingOfComputers/HanAhreum_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/1st_week_UnderstandingOfComputers/HanAhreum_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/1st_week_UnderstandingOfComputers/HanAhreum_5_1st_week_review.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/2nd_week_PythonBasic/HanAhreum_Pytube.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanAhreum/3rd_week_Linux&amp;Django/HanAhreum_Nginx+uWSGI+Django.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/1st_week_UnderstandingOfComputers/HanMinsoo_1_ActiveX.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/1st_week_UnderstandingOfComputers/HanMinsoo_2_http:https.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/1st_week_UnderstandingOfComputers/HanMinsoo_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/1st_week_UnderstandingOfComputers/HanMinsoo_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/1st_week_UnderstandingOfComputers/HanMinsoo_5_1st_week_review.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/2nd_week_PythonBasic/HanMinsoo_Pytube.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HanMinsoo/3rd_week_Linux&amp;Django/HanMinsoo_Nginx+uWSGI+Django.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_UnderstandingOfComputers/JeonMyeonghoon_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_UnderstandingOfComputers/JeonMyeonghoon_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_UnderstandingOfComputers/JeonMyeonghoon_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_UnderstandingOfComputers/JeonMyeonghoon_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_UnderstandingOfComputers/JeonMyeonghoon_5_1st_week_review.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeonMyeonghoon/2nd_week_PythonBasic/JeonMyeonghoon_Pytube.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/1st_week_UnderstandingOfComputers/LeeJeonghyeon_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/1st_week_UnderstandingOfComputers/LeeJeonghyeon_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/1st_week_UnderstandingOfComputers/LeeJeonghyeon_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/1st_week_UnderstandingOfComputers/LeeJeonghyeon_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/2nd_week_PythonBasic/LeeJeonghyeon_Pytube.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeJeonghyeon/3rd_week_Linux&amp;Django/LeeJeonghyeon_Nginx+uWSGI+Django.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/1st_week_UnderstandingOfComputers/LeeSeongpil_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/1st_week_UnderstandingOfComputers/LeeSeongpil_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/1st_week_UnderstandingOfComputers/LeeSeongpil_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/1st_week_UnderstandingOfComputers/LeeSeongpil_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/1st_week_UnderstandingOfComputers/LeeSeongpil_5_1st_week_review.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeeSeongpil/3rd_week_Linux&amp;Django/LeeSeongpil_Nginx+uWSGI+Django.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YooDonghyeon/1st_week_UnderstandingOfComputers/YooDonghyeon_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YooDonghyeon/1st_week_UnderstandingOfComputers/YooDonghyeon_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YooDonghyeon/1st_week_UnderstandingOfComputers/YooDonghyeon_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YooDonghyeon/1st_week_UnderstandingOfComputers/YooDonghyeon_4_HTML5.pdf" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HanAhreum/1st_week_UnderstandingOfComputers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HanAhreum/2nd_week_PythonBasic/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HanAhreum/3rd_week_Linux&amp;Django/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HanMinsoo/1st_week_UnderstandingOfComputers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HanMinsoo/2nd_week_PythonBasic/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HanMinsoo/3rd_week_Linux&amp;Django/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_UnderstandingOfComputers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/2nd_week_PythonBasic/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/1st_week_UnderstandingOfComputers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/2nd_week_PythonBasic/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/3rd_week_Linux&amp;Django/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeSeongpil/1st_week_UnderstandingOfComputers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeSeongpil/2nd_week_PythonBasic/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeeSeongpil/3rd_week_Linux&amp;Django/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SohYongseok/1st_week_UnderstandingOfComputers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SohYongseok/2nd_week_PythonBasic/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SohYongseok/3rd_week_Linux&amp;Django/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/YooDonghyeon/1st_week_UnderstandingOfComputers/ex.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YooDonghyeon/2nd_week_PythonBasic/YooDonghyeon_Pytube.pdf" afterPath="$PROJECT_DIR$/YooDonghyeon/2nd_week_PythonBasic/YooDonghyeon_Pytube.pdf" />
+    <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo_3rd_week_Linux&amp;Django/HanMinsoo_Nginx+uWSGI+Django.pdf" afterPath="$PROJECT_DIR$/HanMinsoo/3rd_week_Linux&amp;Django/HanMinsoo_Nginx+uWSGI+Django.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fastcampus_wps1.iws" />
@@ -499,14 +445,20 @@
       <option name="project" value="LOCAL" />
       <updated>1454136595313</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit">
+      <created>1454137792063</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1454137792063</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
