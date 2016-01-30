@@ -47,6 +47,6 @@ c2 = CalDivide(20, 10)
 c2.add()
 c2.multiply()
 c2.divide()
-c2.multiply()
+c1.multiply()
 
 Cal.history()
