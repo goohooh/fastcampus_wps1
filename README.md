@@ -18,10 +18,10 @@ FastCampus WebProgrammingSchool 1st member's github
 - Linux Basic
 - Django Basic
 
-<b>4주차 : 자료구조
+<b>4주차 : 자료구조</b>
 - Stack, Queue, Single Linked List, Double Liked List, Tree, Graph
 
-<b>5주차 : 알고리즘
+<b>5주차 : 알고리즘</b>
 - 알고리즘 실습
 
 <b>6주차 : Front-end Programming</b>
