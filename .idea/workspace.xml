@@ -2,29 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_5_1st_week_review.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimHanwool/3rd_week_Linux &amp; Django/KimHanwool_1_NginX+uWSGI+Django.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KimYechan/3rd_week_Linux &amp; Django/KimYechan_1_Nginx+uWSGI+Django.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_1_ActiveX.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_2_http:https.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_3_SWEngineering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_4_HTML5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_5_1st_week_review.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex1.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KimHanwool/3rd_week_Linux &amp; Django/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KimYechan/3rd_week_Linux &amp; Django/ex.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/1st_week_UnderstandingOfComputers/ParkSeungkwon_1_ActiveX.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/1st_week_UnderstandingOfComputers/ParkSeungkwon_2_http:https.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/1st_week_UnderstandingOfComputers/ParkSeungkwon_3_SWEngineering.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/1st_week_UnderstandingOfComputers/ParkSeungkwon_4_HTML5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/1st_week_UnderstandingOfComputers/ParkSeungkwon_5_1st_week_review.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/2nd_week_PythonBasic/ParkSeungkown_Pytube.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSeungkwon/3rd_week_Linux&amp;Django/ParkSeungKown_NginX+uWSGI+Django.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParkSunbae/2nd_week_PythonBasic/ParkSunbae_Pytube.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/1st_week_UnderstandingOfComputers/SeoEunjung_1_ActiveX.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/1st_week_UnderstandingOfComputers/SeoEunjung_2_http:https.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/1st_week_UnderstandingOfComputers/SeoEunjung_3_SWEngineering.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/1st_week_UnderstandingOfComputers/SeoEunjung_4_HTML5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/1st_week_UnderstandingOfComputers/SeoEunjung_5_1st_week_review.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/2nd_week_PythonBasic/SeoEunjung_Pytube.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeoEunjung/3rd_week_Linux&amp;Django/SeoEunjung_Nginx+uWSGI+Django.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/1st_week_UnderstandingOfComputers/SohYongseok_1_ActiveX.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/1st_week_UnderstandingOfComputers/SohYongseok_2_http:https.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/1st_week_UnderstandingOfComputers/SohYongseok_3_SWEngineering.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/2nd_week_PythonBasic/SohYongseok_Pytube.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SohYongseok/3rd_week_Linux&amp;Django/SohYongseok_Nginx+uWSGI+Django.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YooDonghyeon/2nd_week_PythonBasic/YooDonghyeon_Pytube.pdf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/1st_week_Understanding of Computers/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/3rd_week_Linux &amp; Django/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/4th_week_Data Structure/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-end Programming/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/8th_week_Software Engineering/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-end Programming/ex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HanAhreum/1st_week_Understanding of Computers/ex.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex1.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/2nd_week_PythonBasic/ex1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex2.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/2nd_week_PythonBasic/ex2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/YooDonghyeon/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/YooDonghyeon/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/YooDonghyeon/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/YooDonghyeon/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/YooDonghyeon/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/SohYongseok/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/SohYongseok/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/SohYongseok/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/SohYongseok/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/SohYongseok/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/SohYongseok/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/SohYongseok/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/SeoEunjung/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/SeoEunjung/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/SeoEunjung/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/SeoEunjung/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/SeoEunjung/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/ParkSunbae/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/ParkSunbae/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/ParkSunbae/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_1_ActiveX.pdf" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_UnderstandingOfComputers/KimHanwool_1_ActiveX.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_2_http:https.pdf" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_UnderstandingOfComputers/KimHanwool_2_http:https.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_3_SWEngineering.pdf" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_UnderstandingOfComputers/KimHanwool_3_SWEngineering.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_4_HTML5.pdf" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_UnderstandingOfComputers/KimHanwool_4_HTML5.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers/KimHanwool_5_1st_week_review.pdf" afterPath="$PROJECT_DIR$/KimHanwool/1st_week_UnderstandingOfComputers/KimHanwool_5_1st_week_review.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/ParkSunbae/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/3rd_week_Linux &amp; Django/KimHanwool_1_NginX+uWSGI+Django.pdf" afterPath="$PROJECT_DIR$/KimHanwool/3rd_week_Linux&amp;Django/KimHanwool_NginX+uWSGI+Django.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/ParkSunbae/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/ParkSeungkwon/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/ParkSeungkwon/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/ParkSeungkwon/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_1_ActiveX.pdf" afterPath="$PROJECT_DIR$/KimYechan/1st_week_UnderstandingOfComputers/KimYechan_1_ActiveX.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_2_http:https.pdf" afterPath="$PROJECT_DIR$/KimYechan/1st_week_UnderstandingOfComputers/KimYechan_2_http:https.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_3_SWEngineering.pdf" afterPath="$PROJECT_DIR$/KimYechan/1st_week_UnderstandingOfComputers/KimYechan_3_SWEngineering.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers/KimYechan_4_HTML5.pdf" afterPath="$PROJECT_DIR$/KimYechan/1st_week_UnderstandingOfComputers/KimYechan_4_HTML5.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/ParkSeungkwon/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/3rd_week_Linux &amp; Django/KimYechan_1_Nginx+uWSGI+Django.pdf" afterPath="$PROJECT_DIR$/KimYechan/3rd_week_Linux&amp;Django/KimYechan_Nginx+uWSGI+Django.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/LeeSeongpil/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/LeeSeongpil/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/LeeSeongpil/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/LeeSeongpil/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/LeeSeongpil/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/LeeSeongpil/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/LeeSeongpil/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/LeeJeonghyeon/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/LeeJeonghyeon/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/LeeJeonghyeon/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/LeeJeonghyeon/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/LeeJeonghyeon/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/LeeJeonghyeon/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/LeeJeonghyeon/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/KimYechan/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/KimYechan/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/KimYechan/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/KimYechan/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/KimYechan/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/KimHanwool/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/KimHanwool/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/KimHanwool/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/KimHanwool/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/KimHanwool/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/JeonMyeonghoon/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_1_ActiveX.pdf" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_UnderstandingOfComputers/ParkSunbae_1_ActiveX.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_2_http:https.pdf" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_UnderstandingOfComputers/ParkSunbae_2_http:https.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_3_SWEngineering.pdf" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_UnderstandingOfComputers/ParkSunbae_3_SWEngineering.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_4_HTML5.pdf" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_UnderstandingOfComputers/ParkSunbae_4_HTML5.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers/ParkSunbae_5_1st_week_review.pdf" afterPath="$PROJECT_DIR$/ParkSunbae/1st_week_UnderstandingOfComputers/ParkSunbae_5_1st_week_review.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/JeonMyeonghoon/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/JeonMyeonghoon/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/JeonMyeonghoon/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/JeonMyeonghoon/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/JeonMyeonghoon/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/JeonMyeonghoon/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanMinsoo/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/8th_week_Software Engineering/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/2nd_week_PythonBasic/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/HanAhreum/1st_week_UnderstandingOfComputers/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/1st_week_Understanding of Computers/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/2nd_week_Python Basic/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/8th_week_SoftwareEngineering/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/3rd_week_Linux &amp; Django/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-endProgramming/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/4th_week_Data Structure/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/4th_week_DataStructure/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/6-7th_week_Front-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/3rd_week_Linux&amp;Django/ex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/9-12th_week_Back-end Programming/ex.py" afterPath="$PROJECT_DIR$/*KimSeunghyun/1st_week_UnderstandingOfComputers/ex.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fastcampus_wps1.iws" />
@@ -47,17 +147,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="ex1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex1.py">
+        <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_PythonBasic/ex1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.30405405">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ex2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex2.py">
+        <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_PythonBasic/ex2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
@@ -140,20 +240,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fastcampus_wps1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fastcampus_wps1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParkSunbae" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -167,11 +253,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ParkSunbae/1st_week_Understanding of Computers" />
-      <recent name="$PROJECT_DIR$/KimHanwool/3rd_week_Linux &amp; Django" />
-      <recent name="$PROJECT_DIR$/KimHanwool/1st_week_Understanding of Computers" />
-      <recent name="$PROJECT_DIR$/KimYechan/3rd_week_Linux &amp; Django" />
-      <recent name="$PROJECT_DIR$/KimYechan/1st_week_Understanding of Computers" />
+      <recent name="$PROJECT_DIR$/SohYongseok/3rd_week_Linux&amp;Django" />
+      <recent name="$PROJECT_DIR$/SohYongseok/2nd_week_PythonBasic" />
+      <recent name="$PROJECT_DIR$/SohYongseok/1st_week_UnderstandingOfComputers" />
+      <recent name="$PROJECT_DIR$/SeoEunjung/3rd_week_Linux&amp;Django" />
+      <recent name="$PROJECT_DIR$/SeoEunjung/2nd_week_Python_Basic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ParkSunbae/Project_ProjectName" />
@@ -469,7 +555,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454126508892</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <created>1454134896185</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1454134896185</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -516,21 +608,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/1st_week_Understanding of Computers/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/1st_week_UnderstandingOfComputers/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/3rd_week_Linux &amp; Django/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/3rd_week_Linux&amp;Django/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/4th_week_Data Structure/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/4th_week_DataStructure/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -544,7 +636,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-end Programming/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/9-12th_week_Back-endProgramming/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -642,98 +734,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-end Programming/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/6-7th_week_Front-endProgramming/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanAhreum/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/HanAhreum/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeonMyeonghoon/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/JeonMyeonghoon/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanMinsoo/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/HanMinsoo/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KimHanwool/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/KimHanwool/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KimYechan/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/KimYechan/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeeJeonghyeon/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/LeeJeonghyeon/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeeSeongpil/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/LeeSeongpil/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParkSeungkwon/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/ParkSeungkwon/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParkSunbae/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/ParkSunbae/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeoEunjung/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/SeoEunjung/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SohYongseok/8th_week_Software Engineering/ex.py">
+    <entry file="file://$PROJECT_DIR$/SohYongseok/8th_week_SoftwareEngineering/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex2.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_PythonBasic/ex2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
@@ -741,10 +833,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_Python Basic/ex1.py">
+    <entry file="file://$PROJECT_DIR$/*KimSeunghyun/2nd_week_PythonBasic/ex1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30405405">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
