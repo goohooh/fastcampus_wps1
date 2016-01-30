@@ -14,7 +14,7 @@ FastCampus WebProgrammingSchool 1st member's github
 <b>2주차 : Python Basic</b>
 - Python Basic
 
-<b>3주차 : Linux & Django
+<b>3주차 : Linux & Django</b>
 - Linux Basic
 - Django Basic
 
