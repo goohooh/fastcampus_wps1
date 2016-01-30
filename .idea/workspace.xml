@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaec81a6-68f6-42d0-b988-9949ad58bc35" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/Project_ProjectName/1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/HanAhreum/Project_ProjectName/한아름_1_ProjectName_Idea.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/Project_ProjectName/1_ProjectName_Idea.pdf" afterPath="$PROJECT_DIR$/HanMinsoo/Project_ProjectName/한민수_1_ProjectName_Idea.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/1_ProjectName_Idea1.key" afterPath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/전명훈_1_ProjectName_Idea1.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/1_ProjectName_Idea2.key" afterPath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/전명훈_1_ProjectName_Idea2.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/Project_ProjectName/1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/KimHanwool/Project_ProjectName/김한울_1_ProjectName_Idea.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/Project_ProjectName/1_ProjectName_Idea.pdf" afterPath="$PROJECT_DIR$/KimYechan/Project_ProjectName/김예찬_1_ProjectName_Idea.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/Project_ProjectName/1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/LeeJeonghyeon/Project_ProjectName/이정현_1_ProjectName_Idea.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/Project_ProjectName/1_ProjectName_Idea.pdf" afterPath="$PROJECT_DIR$/LeeSeongpil/Project_ProjectName/이성필_1_ProjectName_Idea.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/Project_ProjectName/1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/ParkSeungkwon/Project_ProjectName/박승권_1_ProjectName_Idea.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/1_ProjectName_Idea1.pdf" afterPath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/박선배_1_ProjectName_Idea1.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/1_ProjectName_Idea2.pptx" afterPath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/박선배_1_ProjectName_Idea2.pptx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/Project_ProjectName/ProjectName_Idea.key" afterPath="$PROJECT_DIR$/SeoEunjung/Project_ProjectName/서은정_1_ProjectName_Idea.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/Project_ProjectName/1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/SohYongseok/Project_ProjectName/소용석_1_ProjectName_Idea.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/Project_ProjectName/1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/YooDonghyeon/Project_ProjectName/유동현_1_ProjectName_Idea.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanAhreum/Project_ProjectName/한아름_1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/HanAhreum/Project_ProjectName/HanAhreum_1_ProjectName_Idea.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HanMinsoo/Project_ProjectName/한민수_1_ProjectName_Idea.pdf" afterPath="$PROJECT_DIR$/HanMinsoo/Project_ProjectName/HanMinsoo_1_ProjectName_Idea.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/전명훈_1_ProjectName_Idea1.key" afterPath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/JeonMyeonghoon_1_ProjectName_Idea1.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/전명훈_1_ProjectName_Idea2.key" afterPath="$PROJECT_DIR$/JeonMyeonghoon/Project_ProjectName/JeonMyeonghoon_1_ProjectName_Idea2.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimHanwool/Project_ProjectName/김한울_1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/KimHanwool/Project_ProjectName/KimHanwool_1_ProjectName_Idea.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/KimYechan/Project_ProjectName/김예찬_1_ProjectName_Idea.pdf" afterPath="$PROJECT_DIR$/KimYechan/Project_ProjectName/KimYechan_1_ProjectName_Idea.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeJeonghyeon/Project_ProjectName/이정현_1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/LeeJeonghyeon/Project_ProjectName/LeeJeonghyeon_1_ProjectName_Idea.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LeeSeongpil/Project_ProjectName/이성필_1_ProjectName_Idea.pdf" afterPath="$PROJECT_DIR$/LeeSeongpil/Project_ProjectName/LeeSeongpil_1_ProjectName_Idea.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSeungkwon/Project_ProjectName/박승권_1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/ParkSeungkwon/Project_ProjectName/ParkSeungkwon_1_ProjectName_Idea.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/박선배_1_ProjectName_Idea1.pdf" afterPath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/ParkSunbae_1_ProjectName_Idea1.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/박선배_1_ProjectName_Idea2.pptx" afterPath="$PROJECT_DIR$/ParkSunbae/Project_ProjectName/ParkSunbae_1_ProjectName_Idea2.pptx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SeoEunjung/Project_ProjectName/서은정_1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/SeoEunjung/Project_ProjectName/SeoEunjung_1_ProjectName_Idea.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SohYongseok/Project_ProjectName/소용석_1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/SohYongseok/Project_ProjectName/SohYongseok_1_ProjectName_Idea.key" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/YooDonghyeon/Project_ProjectName/유동현_1_ProjectName_Idea.key" afterPath="$PROJECT_DIR$/YooDonghyeon/Project_ProjectName/YooDonghyeon_1_ProjectName_Idea.key" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fastcampus_wps1.iws" />
@@ -87,7 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,7 +108,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,7 +363,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454084235473</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit">
+      <created>1454084577960</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1454084577960</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -372,7 +378,6 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -380,6 +385,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
