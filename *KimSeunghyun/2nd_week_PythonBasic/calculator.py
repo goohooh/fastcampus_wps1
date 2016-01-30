@@ -1,4 +1,20 @@
-class Cal(object):
+class CalMultiply():
+    def multiply(self):
+        result = self.v1*self.v2
+        Cal._history.append("multiply : %d*%d=%d" % (self.v1, self.v2, result))
+        return result
+    def info(self):
+        return "CalMultiply => %s" % super().info()
+
+class CalDivide():
+    def divide(self):
+        result = self.v1/self.v2
+        Cal._history.append("divide : %d/%d=%d" % (self.v1, self.v2, result))
+        return result
+    def info(self):
+        return "CalDivide => %s" % super().info()
+
+class Cal(CalMultiply, CalDivide):
     _history = []
     def __init__(self, v1, v2):
         if isinstance(v1, int):
@@ -30,26 +46,7 @@ class Cal(object):
         return "Cal => v1 : %d, v2 : %d" % (self.v1, self.v2)
 
 
-class CalMultiply(Cal):
-    def multiply(self):
-        result = self.v1*self.v2
-        Cal._history.append("multiply : %d*%d=%d" % (self.v1, self.v2, result))
-        return result
-    def info(self):
-        return "CalMultiply => %s" % super().info()
-
-class CalDivide(CalMultiply):
-    def divide(self):
-        result = self.v1/self.v2
-        Cal._history.append("divide : %d/%d=%d" % (self.v1, self.v2, result))
-        return result
-    def info(self):
-        return "CalDivide => %s" % super().info()
-
-
-c0 = Cal(30, 60)
-print(c0.info())
-c1 = CalMultiply(10, 10)
-print(c1.info())
-c2 = CalDivide(20, 10)
-print(c2.info())
+c = Cal(100, 10)
+print(c.add())
+print(c.multiply())
+print(c.divide())
