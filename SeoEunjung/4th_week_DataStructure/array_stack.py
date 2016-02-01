@@ -23,7 +23,6 @@ class ArrayStack:
         self.data.append(e)
         self.count += 1
 
-
     def top(self):
         # 가장 마지막에 들어간 수가 무엇인지 알려준다
         length = len(self.data) - 1
