@@ -20,5 +20,5 @@ git clone https://github.com/yevgnenll/front.git<br/>
 rm -r html/front<br/>
 mv front html/front<br/>
 
-[수행과제 완성 페이지](http://yevgnenll.me/front/test.html)
+[수행과제 완성 페이지](http://yevgnenll.me/front/test.html)<br/>
 [박승권 깃헙(상세 로그 확인 가능)](https://github.com/yevgnenll/front.git)
