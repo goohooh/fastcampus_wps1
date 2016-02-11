@@ -1,0 +1,273 @@
+html {	
+}
+* {
+	box-sizing: border-box; /* W3C */
+	-o-box-sizing: border-box; /* Opera */
+	-ms-box-sizing: border-box; /* IE */
+	-moz-box-sizing: border-box; /* Firefox */
+	-webkit-box-sizing: border-box; /* Safari & Chrome */
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+body{
+	background-color:#ffffff;
+
+}
+@font-face{
+	font-family: 'NanumGothic';
+	src: url(../font/NanumGothic.ttf) format('truetype');
+}
+@font-face{
+	font-family: 'NanumGothicBold';
+	src: url(../font/NanumGothicBold.ttf) format('truetype');;
+}
+p{
+	font-family: NanumGothic;
+}
+span{
+	font-family: NanumGothic;
+}
+b{
+	font-family: NanumGothicBold;
+}
+/*전체를 감싸고 있는 div*/
+#wrapper{
+	text-align: center;	
+	width: 100%;
+	min-width: 1100px;
+	margin: 0px;
+
+}
+
+.display_block{
+	display: block
+}
+/*첫번째 파란색 페이지*/
+#top-blue{
+	display: block;
+}
+/*두번째 동영상 있는 흰색*/
+#second-white{
+	display: block;
+	margin: 30px auto 0px;
+	width:1100px;
+	height: 400px;
+	padding-left: 50px;
+}
+/*동영상 부분*/
+#multimedia{
+	float: left;
+	margin-top: 45px;
+	display: inline;
+}
+.title{
+	font-size: 25px;
+}
+.introduce{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+/*동영상 옆에 텍스트 설명*/
+#description{
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 9px;
+}
+/*설명에서 가운데 진한 텍스트*/
+.title_allience{
+	padding-top: 25px;
+}
+/*이모티콘 증정 이벤트*/
+#event{
+	/*margin-top: 30px;*/
+	margin: 30px auto 0px;
+	width: 1100px;
+	height:auto;
+	background-color: #3B3B3B;
+}
+/*가맹점 안내*/
+#chain{
+	background-color:#EFF2F4;
+	width:1100px;
+	height: 920px;
+	display: block;
+	margin: -3px auto 0px;
+}
+/*오프라인 옆에 색간색*/
+#offline{
+	background: #FC6658;
+	width:1px;
+	padding-left: 6px;
+	margin-left: 50px;
+	display:block;
+}
+/*온라인 옆에 색란색*/
+#online{
+	background: #6CA4D3;
+	width:1px;
+	padding-left: 6px;
+	margin-left: 50px;
+	display:block;
+}
+/*색상 태그 옆에명설명*/
+.dis_block{
+	display: block;
+	text-align: left;
+	padding-left: 50px;
+	margin-left: 18px;
+}
+/*가맹점 배너부전부*/
+.banners{
+	padding-top:22px;
+	padding-left: 50px;
+	display: block;
+	height: 480px;
+}
+/*가맹점 배너 하나하나*/
+.friends{
+	float:left;
+	display: inline;
+	width: auto;
+	padding-bottom: 10px;
+	padding-right: 20px;
+}
+/*협업행은행*/
+#allience_banks{
+	background-color:#FFFFFF;
+	width:1100px;
+	display: block;
+	
+	margin: 30px auto 0px;
+}
+/*가장 아래 footer*/
+#footer{
+	background-color: #2A2D33;
+	width: 1100px;
+	height: 190px;
+	display: block;
+	margin:0px auto 0px;
+}
+/*모든 text box에 필요한것들*/
+.text_box{
+	width: 400px;
+    height: 100px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+}
+.text_info{
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+/*float left를 해야할 경우*/
+.float_left{
+	float: left
+}
+/*margin_left를 해야할 경우*/
+.margin_left{
+	margin-left: 20px;
+}
+/*margin_bottom을 해야할경우*/
+.margin_bottom{
+	margin-bottom: 10px;
+}
+
+
+
+/*앱스토어 버튼 묶음*/
+#btn-store{
+	padding-top: 20px;
+}
+/*온라인 빨간색, 텍스트 태그*/
+#online_tag{
+	display: block;
+}
+/*은행모양 아이콘*/
+.icon{
+	padding-right: 5px;
+	display: inline-block;
+	margin: 0px auto 20px;
+}
+/*은행 배너들 묶음*/
+#bank_wrap{
+	height:330px;
+}
+/*은행 배너 하나하나*/
+.bank{
+	display: inline-block;
+	width: auto;
+	padding-bottom: 10px;
+	padding-right: 20px;
+
+}
+/*footer 텍스트*/
+.footer_info{
+	color: #929395;
+	text-align: left;
+	padding-left: 45px;
+	padding-bottom: 10px;
+
+
+}
+/*footer 텍스트스박스*/
+#footer_text{
+	padding-top: 20px;
+
+}
+/*저작권 설명*/
+#copyright{
+	text-align: left;
+	padding-left: 45px;
+	padding-top: 20px;
+	color: #62696E;
+
+
+}

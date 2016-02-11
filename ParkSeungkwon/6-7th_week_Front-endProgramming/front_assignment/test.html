@@ -1,0 +1,278 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../front/style/css/assignment.css"/>
+	<link rel="stylesheet" type="text/css" href="../front/style/css/flexslider.css"/>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<script src="../front/style/js/jquery-2.2.0.js"></script>
+	<script src="../front/style/js/jquery.flexslider.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+
+			$('#applestore').click(function(){
+				alert('준비중입니다');
+				return;
+			});
+
+			$('.target').click(function(){
+				$(this).attr('target','_blank');
+			});
+
+			$(window).load(function() {
+  				$('.flexslider').flexslider({
+    				animation: "slide",
+  				});
+			});
+
+		});
+		
+	</script>
+	<!--[if lt IE 9]>
+		<script src="../front/style/js/html5shiv.js"></script>
+	<![endif]-->
+	<title>숙제페이지</title>
+</head>
+<body>
+	<div id="wrapper">
+		
+		<header id="top-blue" class="primary">
+			<div class="flexslider">
+				<ul class="slides">
+			    	<li>
+			    		<img src="../front/style/image/header/blue.png" alt="ATM에서 간편출금 모바일 현금카드로 아주 쉽게"/>
+			    	</li>
+			    	<li>
+			      		<img src="../front/style/image/header/green.png" alt="뱅카로 매장결제 지갑없어도, 뱅카만 있으면 결제가능"/>
+			    	</li>
+			    	<li>
+			      		<img src="../front/style/image/header/eme.png" alt="카톡으로 송금한다 계좌번호 없이 보내고 받기"/>
+			    	</li>
+			    	<li>
+			      		<img src="../front/style/image/header/silver.png" alt="아직도? 이제부터! 뱅카로 결제"/> 
+			    	</li>
+			  	</ul>
+			</div> 
+			
+		</header>
+		<section>
+		<div id="second-white" class="primary">
+			<article id="multimedia" class="line">
+
+				<iframe id="cf" width="490" height="294" src="https://www.youtube.com/embed/xojXg_Lh7j4" frameborder="0" allowfullscreen></iframe>
+				<!-- 일단 여기도 독립적이여서 article을 사용하긴 했는데 동영상 하나를 article로 놓는게 괜찮을까?? -->
+			</article> 
+			<article>
+				<div id="description" class="float_left">
+
+					<h1 class="title"><b>뱅크월렛</b> 카카오</h1>
+					<br/>
+					<p class="text_info">카카오와 국내 은행이 함께만든</p>
+					<p class="text_info">안전하고 편리한 모바일 지갑 뱅크월렛 카카오!</p>
+					<br/>
+					<p class="text_info">단 한번의 발급으로 카톡 친구에게 자유롭게 송금하고</p>
+					<p class="text_info">온라인, 모바일 결제까지 가능한 뱅크월렛 카카오를 지금 만나보세요</p>
+					<br/>
+					<h2 class="introduce">놀랍도록 <b>특별한 기능</b>을 <b>소개</b>합니다</h2>
+					<p class="text_info">- 전국 주요 16개 은행 계좌로 자유롭게 이용 가능한 뱅크머니 발급/해지</p>
+					<p class="text_info">- 카톡 친구와 뱅크머니 보내고 받기</p>
+					<p class="text_info">- 온라인/모바일 쇼핑몰에서 수비고 빠른 뱅크머니 결제</p>
+					<p class="text_info">- 카카오 쿠폰과 은행 쿠폰을 한 번에 관리하는 쿠폰함 활용</p>
+					<p class="text_info">- 결제 시마다 적립 받아 카카오 서비스에서 사용 가능한 카카오 통합 포인트</p>
+						
+					<div id="btn-store" class="float_left">
+						
+						<img class="float_left" id="applestore" src="../front/style/image/app.png">
+					
+						<a href="https://play.google.com/store/apps/details?id=kr.or.kftc.mobilewallet&hl=ko" class="target">
+						<img class="float_left" style="margin-left: 20px;" src="../front/style/image/google.png"/></a>
+					</div>
+				</div>
+			</article>
+
+		</div>
+
+		<section id="event">
+			<img src="../front/style/image/event.png"/>
+		</section>
+		<section id="chain">
+			<div class="title_allience">
+				<img src="../front/style/image/icon_ivory.png"/>
+				
+				<!--offline-->
+				<div>
+					<span id="offline" class="dis_block float_left"><pre> </pre></span>
+				</div>
+			</div>
+			<span class="dis_block">오프라인</span>
+			<div class="banners">
+				<div class="friends">
+					<a href="http://emart.ssg.com/main.ssg" target="_blank">
+						<img src="../front/style/image/1_emart.png" alt="이마트 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.shinsegae.com/" class="target">
+						<img src="../front/style/image/2_shin.png" alt="신세계 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.akplaza.com/" class="target">
+						<img src="../front/style/image/3_akplaza.png" alt="ak plaza페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends" >
+					<a href="https://www.7-eleven.co.kr/" class="target">
+						<img src="../front/style/image/4_7eleven.png" alt="seven eleven 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://cu.bgfretail.com/" class="target">
+						<img src="../front/style/image/5_cu.png" alt="cu 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="https://www.7-eleven.co.kr/" class="target">
+						<img src="../front/style/image/6_buytheway.png" alt="seven eleven 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.ministop.co.kr/" class="target">
+						<img src="../front/style/image/7_ministop.png" alt="mini stop 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends" style="padding-bottom: 0px;">
+					<a href="http://www.gagstorymart.com/" class="target">
+						<img src="../front/style/image/8_gagstory.png" alt="gag story 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="https://www.with-me.co.kr/" class="target">
+						<img src="../front/style/image/9_withme.png" alt="위드미 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://gs25.gsretail.com/gscvs/ko/main" class="target">
+						<img src="../front/style/image/10_gs25.png" alt="gs25 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					
+				</div>
+				<div class="friends">
+					
+				</div>
+			</div>
+			<br/>
+			<div id="online_tag">
+				<div>
+					<span id="online" class="float_left"><pre> </pre></span>
+				</div>
+				<span class="dis_block">온라인</span>
+			</div>
+			<div class="banners" style="height: 320px;">
+				<!--online-->
+				<div class="friends">
+					<a href="https://gift-talk.kakao.com/" class="target">
+						<img src="../front/style/image/1_kakao.png" alt="카카오톡 선물하기 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.kakao.com/main" class="target">
+						<img src="../front/style/image/2_kakaopic.png" alt="카카오픽 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.aladin.co.kr" class="target">
+						<img src="../front/style/image/3_aladin.png" alt="알라딘 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.istyle24.com/" class="target">
+						<img src="../front/style/image/4_istyle24.png" alt="아이스타일 24 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.isoi.co.kr/" class="target">
+						<img src="../front/style/image/5_isoi.png" alt="아이소이 페이지로 이동합니다"/>
+					</a>
+				</div>
+				<div class="friends">
+					<a href="http://www.wzdworks.com/" class="target">
+						<img src="../front/style/image/6_wizardworks.png" alt="위자드웍스 페이지로 이동합니다"/>
+					<a/>
+				</div>
+			</div>
+		</section>
+		
+
+		<section id="allience_banks">
+				<div class="icon">
+					<img src="../front/style/image/icon_white.png" alt="뱅카 참여은행 안내"/>
+				</div>
+				<div id="bank_wrap">
+					<div class="bank">
+						<img src="../front/style/image/banks/1_shinhan.png" alt="신한은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/2_kb.png" alt="국민은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/3_nh.png" alt="농협"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/4_ibk.png" alt="기업은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/5_woori.png" alt="우리은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/6_hana.png" alt="하나은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/7_citi.png" alt="시티은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/8_keb.png" alt="외환은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/9_sc.png" alt="스탠다드 차타드 은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/10_sh.png" alt="수협"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/11_bs.png" alt="부산은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/12_dbg.png" alt="대구은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/13_kn.png" alt="경남은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/14_gj.png" alt="광주은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/15_jb.png" alt="전북은행"/>
+					</div>
+					<div class="bank">
+						<img src="../front/style/image/banks/16_jj.png" alt="제주은행"/>
+					</div>
+					<div class="bank float_left" style="padding-left: 33px;">
+						<img src="../front/style/image/banks/17_wj.png" alt="우체국은행"/>
+					</div>
+					
+		</section>
+		<footer id="footer">
+			<img src="../front/style/image/footer.png"/>
+			<section id="footer_text">
+				<p class="footer_info">(우)135-758 서울특별시 강남구 테헤란로 202 (서울특별시 강남구 역삼동 717번지)</p>
+				<p class="footer_info">고객지원 서비스 :  1577-5500    이용시간 :  09:00 ~ 17:00 (월~금)</p>
+
+				<p id="copyright">Copyright ⓒ 2015 KFTC (Korea Financial Telecommunications & Cleatings Institue) All Rights Reserved.</>
+			</section>
+
+		</footer>
+	</div>
+</body>
+</html>
