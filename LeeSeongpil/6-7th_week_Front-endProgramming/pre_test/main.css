@@ -1,0 +1,447 @@
+﻿@font-face {
+    font-family: 'nGothic';
+    src: url('../fonts/NanumGothic.eot');
+    src: local('☺'), 
+         url('../fonts/NanumGothic.woff') format('woff'), 
+         url('../fonts/NanumGothic.ttf') format('truetype');
+}
+
+/*  리셋 CSS  */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+    color: #;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: middle;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+    font-family: NanumGothic, '나눔고딕','Nanum Gothic', nGothic, '맑은고딕','Malgun Gothic', Arial, Helvetica, sans-serif;
+}
+ol, ul {
+	list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    background-color: transparent;            
+}
+img {
+    vertical-align: top;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*  /reset CSS  */
+
+#wrap {
+    margin: 0 auto;
+    width: 1100px;
+}
+
+.wrapper {
+    margin: 0 50px 0 50px;
+    width: 1000px
+}
+
+header .logo {
+    position: absolute;
+    z-index: 10;
+    top: 21px;
+}
+
+.logo a {
+    display: inline-block;
+}
+
+.logo a + a {
+    position: absolute;
+    top: 7px;
+    right: 0;
+}
+
+.carousel {
+    position: relative;
+    width: 100%;
+    height: 588px;
+}
+
+.carousel > a {
+    display: inline-block;
+    position: absolute;
+    z-index: 20;
+    top: 50%;
+    margin-top: -33px;
+    cursor: pointer;
+}
+
+.prev {
+    left: 50px;
+}
+
+.next {
+    right: 50px;
+}
+
+.carousel ul {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    height: 100%;
+}
+
+.carousel ul li:nth-child(2) {
+    left: 1100px;
+    animation: 0.3s;
+}
+.carousel ul li:nth-child(3) {
+    left: 2200px;
+    animation: 0.3s;
+}
+.carousel ul li:nth-child(4) {
+    left: 3300px;
+    animation: 0.3s;
+}
+
+
+
+.carousel ul li {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.carousel ul li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.info {
+    display: block;
+    margin-top: 42px;
+    white-space: nowrap;
+}
+
+.info .video {
+    display: inline-block;
+    position:relative;
+    left: -10px;
+    top: -20px;
+    padding: 0 10px;
+    width: 50%;
+}
+
+.info article {
+    display: inline-block;
+    position: relative;
+    right: -10px;
+    width: 50%;
+    height: 100%;
+}
+
+.info h1 {
+    margin-bottom: 21px;
+    line-height: 1.2em;
+    font-size: 2.2em;
+    font-weight: 700;
+}
+
+.info h2 {
+    margin-bottom: 21px;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.info p {
+    margin-bottom: 21px;
+    letter-spacing: -1px;
+    line-height: 1.32em;
+}
+
+.info a {
+    display: inline-block;
+}
+
+.event {
+    margin-top: 42px;
+    width: 100%;
+    height: 126px;
+    background: #3b3b3b;
+}
+
+.store {
+    position: relative;
+    width: 100%;
+    background: #eff2f4;
+}
+
+.store .wrapper {
+    position: relative;
+    padding: 42px 0;
+}
+
+.title {
+    position: relative;
+    height: 42px;
+    text-align: center;
+}
+
+.title h1 {
+    display: inline-block;
+    line-height: 1.3em;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.market_icon {
+    display: inline-block;
+    width: 44px;
+    height: 42px;
+    background:url(img/sprite.png);
+    background-position: -964px 0;
+    background-repeat: no-repeat;
+}
+
+.market_icon_rod {
+    display: inline-block;
+    margin: 0 5px;
+    width: 2px;
+    height: 22px;
+    background:url(img/sprite.png);
+    background-position: -1010px 0;
+    background-repeat: no-repeat;
+}
+
+.sub_title {
+    margin-top: 21px;
+}
+
+.sub_title h2 {
+    display: inline-block;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.offline_rod {
+    display: inline-block;
+    width: 6px;
+    height: 21px;
+    background:url(img/sprite.png);
+    background-position: -1033px 0;
+    background-repeat: no-repeat;
+}
+
+.online_rod {
+    display: inline-block;
+    width: 6px;
+    height: 21px;
+    background:url(img/sprite.png);
+    background-position: -1020px 0;
+    background-repeat: no-repeat;
+}
+
+.stores ul {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0 -10px;
+}
+
+.stores ul li {
+    position: relative;
+    float: left;
+    margin-top: 21px;
+    padding: 0 10px;
+
+}
+
+.stores ul:after {
+    clear: both;
+    display: block;
+    content: '';
+}
+
+.stores ul li a {
+    background: url(img/sprite.png);
+    position: relative;
+    display: block;
+    width : 235px;
+    height: 126px;
+    background-repeat: no-repeat;
+}
+
+.stores ul li p {
+    position: absolute;
+    top: 84px;
+    left: 30px;
+    line-height: 1.35em;
+}
+
+.offline ul li:nth-child(1) a {
+    background-position: 0 0;
+}
+.offline ul li:nth-child(2) a {
+    background-position: -235px 0;
+}
+.offline ul li:nth-child(3) a {
+    background-position: -470px 0;
+}
+.offline ul li:nth-child(4) a {
+    background-position: -705px 0;
+}
+.offline ul li:nth-child(5) a {
+    background-position: 0 -126px;
+}
+.offline ul li:nth-child(6) a {
+    background-position: -235px -126px;
+}
+.offline ul li:nth-child(7) a {
+    background-position: -470px -126px;
+}
+.offline ul li:nth-child(8) a {
+    background-position: -705px -126px;
+}
+.offline ul li:nth-child(9) a {
+    height: 147px;
+    background-position: 0 -252px;
+}
+.offline ul li:nth-child(10) a {
+    height: 147px;
+    background-position: -235px -252px;
+}
+
+.online ul li:nth-child(1) a {
+    background-position: 0 -414px;
+}
+.online ul li:nth-child(2) a {
+    background-position: -235px -414px;
+}
+.online ul li:nth-child(3) a {
+    background-position: -470px -414px;
+}
+.online ul li:nth-child(4) a {
+    background-position: -705px -414px;
+}
+.online ul li:nth-child(5) a {
+    background-position: 0 -540px;
+}
+.online ul li:nth-child(6) a {
+    background-position: -235px -540px;
+}
+
+.bank.wrapper {
+    padding: 42px 0;
+}
+
+.bank .stores ul li a {
+    height: 42px;
+}
+
+.bank ul li:nth-child(1) a {
+    background-position: 0 -690px;
+}
+.bank ul li:nth-child(2) a {
+    background-position: -235px -690px;
+}
+.bank ul li:nth-child(3) a {
+    background-position: -470px -690px;
+}
+.bank ul li:nth-child(4) a {
+    background-position: -705px -690px;
+}
+.bank ul li:nth-child(5) a {
+    background-position: 0 -732px;
+}
+.bank ul li:nth-child(6) a {
+    background-position: -235px -732px;
+}
+.bank ul li:nth-child(7) a {
+    background-position: -470px -732px;
+}
+.bank ul li:nth-child(8) a {
+    background-position: -705px -732px;
+}
+.bank ul li:nth-child(9) a {
+    background-position: 0 -774px;
+}
+.bank ul li:nth-child(10) a {
+    background-position: -235px -774px;
+}
+.bank ul li:nth-child(11) a {
+    background-position: -470px -774px;
+}
+.bank ul li:nth-child(12) a {
+    background-position: -705px -774px;
+}
+.bank ul li:nth-child(13) a {
+    background-position: 0 -816px;
+}
+.bank ul li:nth-child(14) a {
+    background-position: -235px -816px;
+}
+.bank ul li:nth-child(15) a {
+    background-position: -470px -816px;
+}
+.bank ul li:nth-child(16) a {
+    background-position: -705px -816px;
+}
+.bank ul li:nth-child(17) a {
+    background-position: 0 -858px;
+}
+
+
+footer {
+    overflow:hidden;
+    position: relative;
+    height: 189px;
+    background-color: #2a2d33;
+}
+
+footer .logo {
+    position: relative;
+    margin-top: 21px;
+}
+
+footer .logo img + img {
+    position: absolute;
+    right: 0;
+}
+
+footer .contact {
+    margin-top: 42px;
+}
+
+footer .copyright {
+    margin-top: 21px;
+}
+
+footer p {
+    color: #abacad;
+    line-height: 1.2em;
+}
