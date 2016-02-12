@@ -1,0 +1,189 @@
+.font1{
+		font-size: 30px;
+		font-weight: bold;
+		float: left;
+	}
+	.font2{
+		font-size: 28px;
+		height: 29px;
+	}
+	.font3{
+		font-size: 12px;
+		color:gray;
+	}
+	.font4{
+		font-size: 17px;
+		color: gray;
+		margin-top:36px;
+		margin-bottom: 20px;
+	}
+
+	body{
+		margin: 0;
+        		padding: 0;
+        		width: 100%;
+		height: 100%;
+
+	}
+
+	#topwhite{
+		height: 54px;
+	}
+
+	#mainimage{
+		width: 916px;
+		height: 490px;
+		margin: 0 auto;
+	}
+
+	#bankwallet{
+		width: 916px;
+		height: 437px;
+		background-color: white;
+		margin: 0 auto;
+	}
+
+	#new_friend_wrap{
+		width: 916px;
+		height: 106px;
+		background-color: white;
+		margin: 0 auto;
+	}
+
+	#video_all{
+		width:450px;
+		height: 437px;
+		margin: 0;
+		}
+
+	#video_top{
+		width: 450px;
+		height: 87px;
+		background-color: white;
+	}
+	#video{
+		width: 450px;
+		height: 245px;
+		background-color: white;
+		text-align: right;
+
+	}
+	#video_bottom{
+		width: 450px;
+		height: 105px;
+		background-color: white;
+	}
+	#video_text{
+		width: 440px;
+		height: 390px;
+		float: right;
+		padding: 37px 10px 10px 16px;
+		background-color: white;
+	}
+
+	#button_wrap{
+		margin-top:16px;
+		height: 54px;
+		width: 409px;
+	}
+
+	#bottom_wrap{
+		width: 836px;
+		height: 800px;
+		background-color: #eff2f4;
+		margin:0 auto;
+		padding-top: 34px;
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+	#banka_change{
+		margin:0 auto;
+		text-align: center;
+	}
+
+	#offline{
+		margin-top: 16px;
+		margin-bottom: 16px;
+	}
+	#offline span{
+		padding-left:10px;
+		border-left:6px solid #ff5a49;
+	}
+	#offline_wrap{
+		width: 836px;
+		height: 369px;
+		padding:0;
+		margin: 0;
+		border:0;
+	}
+	#offline_img{
+		width: 197px;
+		height: 105px;
+		margin-right: 16px;
+		margin-bottom: 17px;
+		float: left;
+	}
+	#offline_img2{
+		width: 197px;
+		height: 123px;
+		float: left;
+
+	}
+	#offline_img3{
+		width: 197px;
+		height: 123px;
+		padding-top: 17px;
+		float: left;
+	}
+
+
+	#online_text{
+		margin-top: 16px;
+		margin-bottom: 16px;
+	}
+	#online_text span{
+		padding-left:10px;
+		border-left:6px solid #5e99cf;
+	}
+	#online_wrap{
+		width: 836px;
+		height: 228px;
+		padding:0;
+		margin: 0;
+		border:0;
+	}
+
+	#bank_wrap{
+		width: 836px;
+		height: 331px;
+		background-color: white;
+		margin:0 auto;
+		padding-top: 34px;
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+	#bank_logo_wrap{
+		width: 834px;
+		height: 274px;
+		margin-top: 22px;
+		background-color: white;
+	}
+	#bank_logo{
+		width: 197px;
+		height: 51px;
+		text-align: center;
+		float: left;
+		margin-right:15px;
+	}
+	#bank_logo2{
+		width: 197px;
+		height: 51px;
+		text-align: center;
+		float: left;
+	}
+
+	#footer{
+		width: 916px;
+		height: 159px;
+		margin:0 auto;
+	}
