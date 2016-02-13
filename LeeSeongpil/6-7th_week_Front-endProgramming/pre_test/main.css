@@ -2,8 +2,8 @@
     font-family: 'nGothic';
     src: url('../fonts/NanumGothic.eot');
     src: local('☺'), 
-         url('../fonts/NanumGothic.woff') format('woff'), 
-         url('../fonts/NanumGothic.ttf') format('truetype');
+         url('fonts/NanumGothic.woff') format('woff'), 
+         url('fonts/NanumGothic.ttf') format('truetype');
 }
 
 /*  리셋 CSS  */
