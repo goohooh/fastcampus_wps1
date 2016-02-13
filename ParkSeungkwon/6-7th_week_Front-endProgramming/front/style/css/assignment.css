@@ -70,6 +70,10 @@ body{
 	font-family: 'NanumGothicBold';
 	src: url(../font/NanumGothicBold.ttf) format('truetype');;
 }
+@font-face{
+	font-family: 'appleGothic';
+	src: url(../font/AppleGothic.ttf) format('truetype');;
+}
 p{
 	font-family: NanumGothic;
 }
@@ -79,6 +83,12 @@ span{
 b{
 	font-family: NanumGothicBold;
 }
+strong{
+	font-family: NanumGothicBold;
+}
+
+/*!important를 속성에 추가하면 그 속성이 먼저 정의되었어도 적용됨*/
+
 /*전체를 감싸고 있는 div*/
 #wrapper{
 	text-align: center;	
@@ -158,6 +168,15 @@ b{
 	margin-left: 50px;
 	display:block;
 }
+/*가맹점 아래 들어가는 서비스, 가맹점 이*/
+.service{
+	font-size: 14px;
+	color: #626262;
+	text-align: left;
+	padding-left: 14px;
+	padding-top: 10px;
+}
+
 /*색상 태그 옆에명설명*/
 .dis_block{
 	display: block;
@@ -177,15 +196,15 @@ b{
 	float:left;
 	display: inline;
 	width: auto;
-	padding-bottom: 10px;
-	padding-right: 20px;
+	padding-bottom: 20px;
+	margin: 0px 20px 20px 0px;
+	background-color: #FFFFFF;
 }
 /*협업행은행*/
 #allience_banks{
 	background-color:#FFFFFF;
 	width:1100px;
 	display: block;
-	
 	margin: 30px auto 0px;
 }
 /*가장 아래 footer*/
@@ -219,9 +238,12 @@ b{
 .margin_bottom{
 	margin-bottom: 10px;
 }
-
-
-
+.mt20{
+	margin-top: -20px;
+}
+.mt30{
+	margin-top: -30px;
+}
 /*앱스토어 버튼 묶음*/
 #btn-store{
 	padding-top: 20px;
@@ -254,8 +276,6 @@ b{
 	text-align: left;
 	padding-left: 45px;
 	padding-bottom: 10px;
-
-
 }
 /*footer 텍스트스박스*/
 #footer_text{
@@ -268,6 +288,4 @@ b{
 	padding-left: 45px;
 	padding-top: 20px;
 	color: #62696E;
-
-
 }
