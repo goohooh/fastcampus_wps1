@@ -1,13 +1,16 @@
-def palindrom(str):
 
-    length = len(str)
-    mid = int(len(str)/2)
-    is_palindrom = True
+str = input()
 
-    for index in range(mid):
-        if(str[index] != str[length-index-1]):
-            is_palindrom = False
+length = len(str)
+mid = int(len(str)/2)
+is_palindrom = True
 
-    print (is_palindrom)
+for index in range(mid):
+    if(str[index] != str[length-index-1]):
+        is_palindrom = False
 
-palindrom("eye")
+if(is_palindrom == True):
+    print("1")
+else:
+    print("0")
+

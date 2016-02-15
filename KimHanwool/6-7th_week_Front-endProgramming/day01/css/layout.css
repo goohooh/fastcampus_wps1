@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.demo {
+	width: 60%;
+	margin: 80px auto;
+}
+
+.demo img{
+	float:left;
+	margin-right: 10px
+}
+
+.demo:nth-child(even) img{  /*fistchild, lastchild, nth-child body 속에 demo를 가진 n번째 tag를 선택 */
+	float: left;
+	margin-right: 10px
+}
+
+.demo:nth-child(odd) img{   /* 3n-1 이런 방식으로도 사용 가능 */
+	float: right;
+	margin-left:10px;
+}
+
+
+/* CSS 레이아웃 재사용 모듈 */
+
+.demo .fl {float: left;}
+.demo .fr {float: right;}
+
