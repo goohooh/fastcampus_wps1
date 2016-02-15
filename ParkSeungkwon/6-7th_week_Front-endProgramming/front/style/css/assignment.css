@@ -97,10 +97,6 @@ strong{
 	margin: 0px;
 
 }
-
-.display_block{
-	display: block
-}
 /*첫번째 파란색 페이지*/
 #top-blue{
 	display: block;
@@ -119,6 +115,7 @@ strong{
 	margin-top: 45px;
 	display: inline;
 }
+/*동영상 옆에 텍스트*/
 .title{
 	font-size: 25px;
 }
@@ -181,8 +178,7 @@ strong{
 .dis_block{
 	display: block;
 	text-align: left;
-	padding-left: 50px;
-	margin-left: 18px;
+	margin-left: 10px;
 }
 /*가맹점 배너부전부*/
 .banners{
@@ -215,13 +211,7 @@ strong{
 	display: block;
 	margin:0px auto 0px;
 }
-/*모든 text box에 필요한것들*/
-.text_box{
-	width: 400px;
-    height: 100px;
-    margin: 0px auto;
-    margin-bottom: 10px;
-}
+/*동영상옆에 텍스트 p태*/
 .text_info{
 	margin-bottom: 10px;
 	font-size: 12px;
@@ -229,14 +219,6 @@ strong{
 /*float left를 해야할 경우*/
 .float_left{
 	float: left
-}
-/*margin_left를 해야할 경우*/
-.margin_left{
-	margin-left: 20px;
-}
-/*margin_bottom을 해야할경우*/
-.margin_bottom{
-	margin-bottom: 10px;
 }
 .mt20{
 	margin-top: -20px;
@@ -268,7 +250,6 @@ strong{
 	width: auto;
 	padding-bottom: 10px;
 	padding-right: 20px;
-
 }
 /*footer 텍스트*/
 .footer_info{
@@ -280,7 +261,6 @@ strong{
 /*footer 텍스트스박스*/
 #footer_text{
 	padding-top: 20px;
-
 }
 /*저작권 설명*/
 #copyright{
