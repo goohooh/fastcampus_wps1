@@ -1,0 +1,27 @@
+﻿body {
+    margin: 0;
+}
+
+.demo .fl {float: left;}
+.demo .fr {float: right;}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.demo {
+    width: 60%;
+    margin: 80px auto;
+}
+
+.demo img {
+    float: left;
+    margin-right: 10px;
+}
+
+/*body .demo:nth-child(even) img {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}*/

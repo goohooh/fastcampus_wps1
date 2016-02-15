@@ -1,0 +1,31 @@
+﻿body {
+    margin: 0;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col {
+    float: left;
+    margin: 0 10px;
+    width: 180px;
+    height: 80px;
+    text-align: center;
+    
+}
+
+.col p {
+    position: relative;
+    margin: -11px 0 0 0;
+    top: 50%;
+}
+
+.col:nth-child(1) { background: #ff6a00;}
+.col:nth-child(2) { background: #ff6a33;}
+.col:nth-child(3) { background: #ff6a66;}
+.col:nth-child(4) { background: #ff6a99;}
+.col:nth-child(5) { background: #ff6abb;}
+.col:nth-child(6) { background: #ff6aff;}

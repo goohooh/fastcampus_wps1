@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko-KR" class = "no-js">  <!-- language(언어) - location(운영 국가)// 웹접근성과 검색 최적화로 인해 중요함 -->
+									 <!-- html root element에는 head와 body만 있어야 함 -->	
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content = "IE=Edge"> <!-- 인터넷 익스플로러 호환 때문에 삽입 -->
+		<title>Document</title>
+		<script>
+			
+			// 새로운 DOM API를 사용하여 루트요소에 접근 
+			var html = document.querySelector('html');
+			console.log(html);
+
+			// 과거에 사용되던 DOM API를 사용하여 루트 요소에 접근하는 방식
+			var legacy_html = document.documentElement;
+			console.log('legacy_html', legacy_html)
+			html.setAttribute('class','js');             //js 스크립트 지원 확인하는 소스 
+
+			//CSS의 신기술 지원하는지 유무를 파악
+			var body1 = document.querySelector('body');  //body가 선언이 안되어있기 때문에, 접근할 수 없음 
+
+			window.onload = function(){                  //윈도우를 다 로딩하고, 아래의 함수를 호출 
+				var body = document.querySelector('body');
+				console.log(body)
+			};
+
+			//localStorage 신기술을 사용자의 브라우저가 지원하는지 유무 파악
+			
+			function detectFeature(feature){
+
+				var old_html_attr = '';
+				if(typeof feature !== 'string'){
+					console.error("detectFeature 함수는 인자를 문자열로 받습니다.")
+				}
+
+				if(window[feature]){
+					var old_html_attr = html.getAttribute('class');       //전체 HTML에서 class 속성을 search
+					console.log(typeof old_html_attr)
+					html.setAttribute('class', old_html_attr +feature);
+				}else {
+					html.setAttribute('class','no-'+no-localstorage);
+				}	
+			}
+
+			detectFeature('localStorage');
+			detectFeature('sessionStorage');
+
+
+
+		</script>
+
+
+	</head>
+	
+	<body>
+	
+	</body>
+
+
+
+</html>
