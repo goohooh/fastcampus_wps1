@@ -1,0 +1,11 @@
+/*
+디자이너가 설계한 그리드 시스템 기반의 
+디자인을 처리하기 위한 CSS 레이아웃 설계
+*/
+
+.baseline_10{
+	height: 100vh; /* view의 상대값으로 100% */
+	background: linear-gradient(180deg, red 5%, transparent 5%);
+	background-size: 100px; 
+	
+}
