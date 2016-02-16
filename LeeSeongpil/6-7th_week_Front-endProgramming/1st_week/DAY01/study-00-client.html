@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html lang="ko-KR" class="no-js">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta charset="utf-8" />
+    <title>JS 사용 유무 감지</title>
+    <script>
+        // 새로운 DOM API를 사용하여 루트 요소에 저근하는 방법
+        var html = document.querySelector('html');
+        console.log(html);
+
+        // 과거에 사용되던 DOM API를 사용하여 루트요소에 접근하는 방법
+        var legacy_html = document.documentElement;
+        console.log('legacy_html: ', legacy_html);
+
+        //  새로운 방식
+        html.setAttribute('class', 'js');
+
+        // 과거에 사용되던 DOM API방식
+        html.className = 'js';
+
+        window.onload = function () {
+            var body = document.querySelector('body');
+            console.log(body);
+        };
+
+        // localStorage 신기술을 브라우저가 지원하는지 파악하는 유무
+        if (window.localStorage) {
+            var old_html_attr = html.getAttribute('class');
+            console.log(typeof old_html_attr);
+            html.setAttribute('class', old_html_attr + ' localstorage');
+        } else {
+            html.setAttribute('class', 'no-localstorage')
+        }
+
+        function detectFeature(feature) {
+            // hoist 처리란? 영역의 최상단으로 변수, 함수가 끌어올려지는 현상
+            // ECMAscript5 까지는 함수만 지역변수를 가질 수 있다. 6부터는 다른 기능 제공
+            var old_html_attr = '';
+
+            // 입력값 에러 처리
+            if (typeof feature !== 'string') {
+                console.error('문자열을 입력해주세요')
+                return
+            }
+
+            if (window[feature]) {
+                old_html_attr = html.getAttribute('class');
+                html.setAttribute('class', old_html_attr + ' ' + feature);
+            } else {
+                html.setAttribute('class', old_html_attr + ' no-' + feature);
+            }
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>
