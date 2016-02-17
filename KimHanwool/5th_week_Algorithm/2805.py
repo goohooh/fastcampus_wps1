@@ -28,24 +28,26 @@
 num_input, target = map(int,input().split())
 heights = list(map(int, input().split()))
 
-def cal(n, heights):   #n은 자르는 높이
+left = 0
+right = max(heights)
+
+def cal(target):  #target 높이의 절단기일 때 가져갈 수 있는 나무 높이
     result = 0
     for num in heights:
-        if(num > n):
-            result += (num-n)
+        tree = num-target
+        if(tree>0):
+            result += tree
     return result
 
-right = max(heights)
-left = 1
-result = -1
+result = 0
 while(left <= right):
-    temp = (left + right)//2    #이분 탐색 추적 값
-    now = cal(temp,heights)           #현재 가져갈 수 있는 나무의 길이
-    if now < target:
-        right = temp-1
-    elif now == target:
-        break
-    elif now > target:
-        left = temp+1
+    mid = (left+right)//2
 
-print(temp)
+    if(cal(mid) >= target):
+        left = mid+1
+        result = max(result, mid)
+
+    else:
+        right = mid-1
+
+print(result)

@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+}
+
+.parent{
+	margin: 10% 10%; /* margin에는 퍼센트를 쓰는 것을 지향*/
+	background: #353535;
+	height: 400px;
+	position:relative;
+}
+
+.parent::before{
+	position: absolute;
+	background: #000;
+	width: 800px;
+	height:100px;
+	/*position 처리 필요 */
+	content: attr(title);
+	color: #fff;
+	font-size: 100px;
+	letter-spacing: -0.03em;
+	font-family: "Helvetica Neue"
+	font-weight:100;
+}
+
+.child{
+	position: absolute;
+	width: 140px;
+	height: 100px;
+	transition:  background 0.345s ease-out;
+	transform: scale(1);
+}
+
+.child:hover{
+	z-index: 100;
+	transform: scale(1.2);
+}
+
+.child::before{
+	display: block; /* 텍스트 align을 사용하기 위해 블락으로 변경 */
+	content:attr(class);
+	color: #fff;
+	font-size: 1.5em;
+	text-align: center; /*블럭 요소에만 적용되기 때문에 안됨*/
+	line-height: 100px
+}
+
+.child:first-child{
+	background: #DA7D85;
+	top:-50px;
+	left:-70px;
+}
+
+.child:first-child:hover{
+	background: #4E282D;
+}
+
+.child:nth-child(2){
+	top: -50px;
+	right:-70px;
+	background: #8064D1;
+}
+
+.child:nth-child(2):hover{
+	background: #312358;
+}
+
+.child:nth-child(3){
+	bottom: -50px;
+	right: -70px;
+	background: #6DC5D2;
+}
+
+.child:nth-child(3):hover{
+	background: #2E575E;
+}
+
+
+.child:nth-child(4){
+	bottom: -50px;
+	left: -70px;
+	background: #6DC510;
+}
+
+.child:nth-child(4):hover{
+	background: #6DC510;
+}
+
+
+
+
+

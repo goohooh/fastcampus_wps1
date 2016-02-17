@@ -33,39 +33,3 @@ while earth <= up:
     else:
         up = mid - 1
 print(knife_height)
-
-
-#---------------동현이 yield 설명---------------
-# def make_gen(num, last = 10, step= 1):
-#     number = num
-#     while number < last:
-#         yield number
-#         number += step
-#
-# ranger = make_gen(1, 3)
-#
-#
-# for x in ranger:
-#     print(x)
-#
-# def make_gen_list(num, last = 10, step= 1):
-#     number = num
-#     res = list()
-#     while number < last:
-#         res.append(number)
-#         number += step
-#     return res
-#
-# ranger = make_gen(1, 3)
-# print(type(ranger))
-# for x in ranger:
-#     print(x)
-# print(ranger)
-
-
-
-
-"""
-4 7
-20 15 10 17
-"""

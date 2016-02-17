@@ -1,0 +1,144 @@
+
+
+body{
+	margin: 0;
+	font: 14px/1.5 Hevetica;  /* 1.5의 행간 */
+}
+nav {
+	padding: 2em;
+}
+
+nav ul{
+	list-style-type: none; /* 리스트 앞에 * 표시 제거 */
+	padding-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;		
+}
+
+nav a{
+	text-decoration: none;  /* 밑줄 제거 */
+	color: #82AEC9;
+}
+
+
+
+.miki{ /* margin을 사용하면 전체가 이동 */
+	position: relative;  /*나의 원래 위치에서 상대적으로 이동*/
+	top: 90px;
+	left: 190px;
+	width: 200px;
+	height: 200px;
+	background: #010101;
+	border-radius: 50%;
+}
+
+				/* 부모 요소들 중에 position을 갖고 있으면 부모 요소로 인식/ 가상요소 */
+.miki::before, /*요소,요소 group 셀렉터. 콤마로 구분한다. 가상요소는 content가 반드시 필요   */
+.miki::after {
+	position: absolute; /* 부모 요소들 중에 position을 갖고 있으면 부모 요소로 인식 */
+	width: 100px;
+	height: 100px;
+	top: -30px;
+	background: #010101;
+	border-radius: 50%;
+	content: '';
+}
+
+.miki::before { 
+	left: -40px;
+}
+
+.miki::after {
+	right: -40px;
+}
+
+
+nav a:link{
+	padding: 0.12em;  /* a 태그의 글자의 12%로 한다 */
+	border-bottom: 1px solid;
+}
+
+nav a:visited{     /*가상 클래스 */
+	color:#4C5790;
+}
+
+nav a:hover{
+	color:#5FA16C;
+}
+
+nav a:active{
+	background: #ff0;
+}
+
+nav a.disabled{
+	cursor: default;
+	color:#eee;
+}
+
+/*
+* 상태 디자인,
+* 가상 클래스 사용
+* 모든 요소에 적용가능한 가상 클래스 
+*:hover
+*anchor 요소에 적용 가능한 가상 클래스
+*:link, :visited, :hover, :active
+
+*가상 요소
+*:before, :after, :first-line, :first-letter
+*/
+
+.dropcap{
+	margin: 0 20%;
+	color: #817E74;
+	font: 15px/1.8 'Times New Roman';
+}
+
+.dropcap .first-letter{
+	float:left;
+	margin-right: 0.3em;
+	font-size: 4em;
+	line-height: 1;   /*글씨 크기에 맞추어 글씨 줄 크기를 늘림*/
+	color: #046380;
+}
+
+section{
+	margin: 20px
+}
+
+.dropcap::first-letter{
+	float:left;
+	margin-right: 0.3em;
+	font-size: 4em;
+	line-height: 1;
+	color: #046380;
+}
+
+::selection{
+	background: #FC4A54;
+	color:#fff;
+}
+
+.demo.first-line{
+	margin-left: 14%;
+	margin-right: 14%;
+}
+
+.demo.first-line p{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.demo.first-line p:first-line{
+	background: rgba(255, 255, 0, 0.3);
+}
+
+/* 접근성 고려, 프린트 환경 사용자를 고려한 디자인 */
+
+@media print {
+	.a11y-contents a::after{
+		content:'(' attr(href) ')';
+	}
+}
+
+
