@@ -1,0 +1,35 @@
+html {
+	overflow-y: scroll;
+}
+
+body {
+	margin: 0;
+	font: 87.5%/1.5 "Nanum Gothic", Sans-Serif;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+.center-position {
+	position:  absolute;
+	top:       50%;
+	left:      50%;
+	transform: translate(-50%, -50%);
+}
+
+.clearfix::after {
+	display: block;
+	clear: both;
+	content: '';
+}
+
+/*글로벌 서비스를 위한 클리어픽스*/
+.micro-cf::before,
+.micro-cf::after {
+	display: table;
+	content: '';
+}
+.micro-cf::after {
+	clear: both;
+}

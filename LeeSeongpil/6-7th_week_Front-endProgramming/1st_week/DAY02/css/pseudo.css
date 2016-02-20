@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	font: 14px/1.5 Helvetica;
+}
+
+nav {
+	padding: 2em;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+
+}
+
+::-moz-selection {
+	background: #EB1E1E;
+	color: #fff;
+}
+
+::selection {
+	background: #EB1E1E;
+	color: #fff;
+}
+
+.demo.first-line {
+	margin-left: 14%;
+	margin-right: 14%;
+}
+
+.demo.first-line p {
+	margin-top:  0;
+	margin-bottom:  0;
+}
+
+.demo.first-line p:first-line {
+	background: rgba(123,123,123,0.1);
+}
+
+.miki {
+	position: relative;
+	top: 100px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background: #333;
+	border-radius: 50%;
+}
+
+.miki::before,
+.miki::after {
+	content: '';
+}
+
+.ear,
+.miki::before,
+.miki::after {
+	position: absolute;
+	top: -30px;
+	width: 100px;
+	height: 100px;
+	background: #333;
+	border-radius: 50%;
+}
+
+.ear-left,
+.miki::before {
+	position: absolute;										ion: absolute;
+	left: -40px;
+}
+
+.ear-right,
+.miki::after {
+	position: absolute;
+	right: -40px;
+}
+
+@media print {
+	.a11y-contents a::after {
+		content: ' (' attr(href) ')';
+	}
+}

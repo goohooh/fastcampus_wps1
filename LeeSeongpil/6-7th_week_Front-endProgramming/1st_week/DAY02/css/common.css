@@ -1,0 +1,9 @@
+/*reset CSS*/
+
+body, body *,
+body::before,
+body::after,
+body *::before,
+body *::after {
+	box-sizing: border-box;
+}

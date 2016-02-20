@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+@import "grid.css";
+@import "reset.css";
+@import "common.css";
+
+.container {
+	height: 100vh;
+}
+
+nav {
+	position: relative;
+	height: 80px;
+	background: white;
+}
+
+.icon_hamburger {
+	position: absolute;
+	display: block;
+  	left: 30px;
+  	top: 34px;
+  	width: 13px;
+  	height: 13px;
+}
+
+.content img {
+	vertical-align: bottom;
+}
+
+.banner-1 {
+	background: url(../img/photo-banners-01.jpg8.png);
+}
+
+.banner-2 {
+	background: url(../img/photo-banners-02.jpg8.png);
+}
+
+.banner-3 {
+	background: url(../img/photo-banners-03.jpg8.png);
+}
+
+.featrued {
+	overflow: hidden;
+}
+
+.featured > div {
+	position: relative;
+	border-right: 1px solid #ececec;
+	border-bottom: 1px solid #ececec;
+}
+
+.featured_header {
+	background: white;
+}
+
+.featured_01 {
+	background: center no-repeat url(../img/photo-featured-01.jpg8.png);
+}
+
+.featured_02 {
+	background: center no-repeat
+}
+

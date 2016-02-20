@@ -1,0 +1,92 @@
+/* 그리드 시스템 설계
+페이지 폭 960px
+컬럼 개수 8
+거터 폭 0px(0px 0px)
+컬럼 폭 960/8 -0 = 120px */
+
+.container {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container.grid {
+	background: url(../img/grid-960.png);
+}
+
+.row {
+	margin-bottom: 30px;
+}
+
+.row::after {
+	display: block;
+	content: '';
+	clear: both;
+}
+ 
+[class*="col-"] {
+	float: left;
+}
+
+/*컬럼 width 계산 공식 : width 80px * 1 + (n-1)*/
+.col-1 {width: 120px;}
+.col-2 {width: 240px;}
+.col-3 {width: 360px;}
+.col-4 {width: 480px;}
+.col-5 {width: 600px;}
+.col-6 {width: 720px;}
+.col-7 {width: 840px;}
+.col-8 {width: 960px;}
+
+
+.row-1 {height: 120px;}
+.row-2 {height: 240px;}
+.row-3 {height: 360px;}
+.row-4 {height: 480px;}
+
+
+.push-1 {margin-left: 120px;}
+.push-2 {margin-left: 240px;}
+.push-3 {margin-left: 360px;}
+.push-4 {margin-left: 480px;}
+.push-5 {margin-left: 600px;}
+.push-6 {margin-left: 720px;}
+.push-7 {margin-left: 840px;}
+.push-8 {margin-left: 960px;}
+
+.pull-1 { margin-left: -120px; }
+.pull-2 { margin-left: -240px; }
+.pull-3 { margin-left: -360px; }
+.pull-4 { margin-left: -480px; }
+.pull-5 { margin-left: -600px; }
+.pull-6 { margin-left: -720px; }
+.pull-7 { margin-left: -840px; }
+.pull-8 { margin-left: -960px; }
+
+
+
+/*.prefix-1 {padding-left: 100px;}
+.prefix-2 {padding-left: 200px;}
+.prefix-3 {padding-left: 300px;}
+.prefix-4 {padding-left: 400px;}
+.prefix-5 {padding-left: 500px;}
+.prefix-6 {padding-left: 600px;}
+.prefix-7 {padding-left: 700px;}
+.prefix-8 {padding-left: 800px;}
+.prefix-9 {padding-left: 900px;}
+.prefix-10 {padding-left: 1000px;}
+.prefix-11 {padding-left: 1100px;}
+.prefix-12 {padding-left: 1200px;}
+
+.sufix-1 {padding-right: 100px;}
+.sufix-2 {padding-right: 200px;}
+.sufix-3 {padding-right: 300px;}
+.sufix-4 {padding-right: 400px;}
+.sufix-5 {padding-right: 500px;}
+.sufix-6 {padding-right: 600px;}
+.sufix-7 {padding-right: 700px;}
+.sufix-8 {padding-right: 800px;}
+.sufix-9 {padding-right: 900px;}
+.sufix-10 {padding-right: 1000px;}
+.sufix-11 {padding-right: 1100px;}
+.sufix-12 {padding-right: 1200px;}*/

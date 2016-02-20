@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="ko-KR" class="no-js">
 <head>
@@ -9,7 +9,6 @@
         // 새로운 DOM API를 사용하여 루트 요소에 저근하는 방법
         var html = document.querySelector('html');
         console.log(html);
-
         // 과거에 사용되던 DOM API를 사용하여 루트요소에 접근하는 방법
         var legacy_html = document.documentElement;
         console.log('legacy_html: ', legacy_html);
@@ -26,7 +25,9 @@
         };
 
         // localStorage 신기술을 브라우저가 지원하는지 파악하는 유무
-        if (window.localStorage) {
+        if
+         (
+            window.localStorage) {
             var old_html_attr = html.getAttribute('class');
             console.log(typeof old_html_attr);
             html.setAttribute('class', old_html_attr + ' localstorage');

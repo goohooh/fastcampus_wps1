@@ -1,0 +1,57 @@
+.page-header {
+	min-height: 80vh;
+	background: #fff;
+	padding-top: 30px;
+}
+
+.page-header div {
+	/*height: 80px;*/
+	/*background: #333;*/
+
+}
+
+.off-canvas-menu a {
+	display: block;
+	width: 30px;
+	height: 25px;
+	background: url(../images/svg/svg-icon-hamberger.svg) center no-repeat;
+}
+
+.brand-aware {
+
+}
+
+.brand-aware a {
+    position: relative;
+    left: -38px;
+}
+
+.off-canvas-menu.col-1.pull-1 {
+	
+position: relative;
+	
+left: -100px;
+}
+
+.gnb li {
+	display: inline;
+	margin-right: 1.875rem;
+}
+
+.gnb li:last-child {
+	margin-right: 0;
+}
+
+.gnb a {
+	padding: 0.625rem 1rem 0.625rem 0;
+	color: #222;
+	font-size: 0.875rem;
+	text-decoration: none;
+	background: url(../images/svg/svg-icon-arrow-down.svg) center right no-repeat;
+}
+
+.varela {
+	font-family: 'Varela', sans-serif;
+}
+
+nav.gnb.col-3.varela {}

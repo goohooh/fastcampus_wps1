@@ -1,0 +1,85 @@
+@import "module/common.css";
+
+body {
+	margin: 0;
+	background: #000;
+}
+
+.banner {
+	width: 800;
+	height: 320;
+	-webkit-box-reflect: below 2px linear-gradient(189deg, transparent 40%,white);
+}
+
+.bg {
+	overflow:  hidden;
+	position: relative;
+	width: 800px;
+	height: 320px;
+	background: url(../img/BG.png);
+	background-repeat: no-repeat;
+}
+
+
+img {
+	position: absolute;
+}
+
+img[src$="apes.png"] {
+ 	left: 100%;
+ 	top: 169px;
+ 	z-index: 10;
+ 	transition: 0.4s cubic-bezier(0.47, 0, 0.25, 1.48);
+}
+
+img[src$="golliras.png"] {
+ 	left: 11px;
+ 	top: 100%;
+ 	z-index: 20;
+ 	transition: 0.4s cubic-bezier(0.78, 0.28, 0.45, 1.13);
+}
+
+
+img[src$="kingkong.png"] {
+  	left: 100%;
+  	top: 28px;
+  	z-index: 30;
+  	transition: 0.4s ease;
+  	transition-delay: 0.2s;
+}
+
+img[src$="s-and-n-logo.png"] {
+	left: -100%;
+	top: 18px;
+	z-index: 40;
+	transition: 0.2s cubic-bezier(0.23, 0.98, 0.57, 1.16);
+	transition-delay: 0.6s;
+}
+
+img[src$="Fabulously Flexible Website Design.png"] {
+	left: 100%;
+	top: 31px;
+	z-index: 50;
+	transition: 0.2s cubic-bezier(0.23, 0.98, 0.57, 1.16);
+	transition-delay: 0.6s;
+}
+
+.bg:hover img[src$="apes.png"] {
+	left: 4px;
+}
+
+.bg:hover img[src$="golliras.png"] {
+	top: 110px;
+}
+
+.bg:hover img[src$="kingkong.png"] {
+	left: 491px;
+}
+
+.bg:hover img[src$="Fabulously Flexible Website Design.png"] {
+	left: 119px;
+}
+
+.bg:hover img[src$="s-and-n-logo.png"] {
+	left: 18px;
+}

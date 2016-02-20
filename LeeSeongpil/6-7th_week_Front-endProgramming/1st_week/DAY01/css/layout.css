@@ -18,10 +18,5 @@ p {
 .demo img {
     float: left;
     margin-right: 10px;
+    color: #
 }
-
-/*body .demo:nth-child(even) img {
-    float: right;
-    margin-right: 0;
-    margin-left: 10px;
-}*/
