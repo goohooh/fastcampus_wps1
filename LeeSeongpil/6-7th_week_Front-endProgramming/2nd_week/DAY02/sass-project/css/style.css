@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-size: 24px; }
+body::before {
+  display: block;
+  content: "";
+  clear: both; }
+
+.button, #page {
+  background: #CD162B; }
+.button.green, .green#page {
+  background: #1FC5A2; }
+.button:focus, #page:focus {
+  background: rgba(205, 22, 43, 0.4); }
+
+#page {
+  width: 1200px; }
+
+/*# sourceMappingURL=style.css.map */

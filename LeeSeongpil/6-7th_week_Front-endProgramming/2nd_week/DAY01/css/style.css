@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.container {
+    width: 1200px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.container.grid {
+    display: block;
+    background: url(../img/grid-module.png);
+}
+
+.off {
+    display: none;
+}

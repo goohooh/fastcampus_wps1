@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    /*overflow: hidden;*/
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 960px;
+    height: 100vh;
+    background: #dcdcdc;
+}
+
+.canvas {
+    position: absolute;
+    right: -100%;
+    width: 700px;
+    height: 100vh;
+    background: #ffd800;
+    transition: 0.4s;
+}
+
+.canvas.on {
+    right: 0;
+}
+
+.off {
+    display: none;
+}

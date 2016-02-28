@@ -1,0 +1,34 @@
+$margin-gap: 0
+$font-size: 14 + 10px
+$red: #CD162B
+$green: #1FC5A2
+$blue: #2F77B8
+
+$support-old-ie: false
+
+=clearfix
+	&::before
+		display: block
+		content: ''
+		clear: both
+	@if $support-old-ie
+		&
+			*zoom: 1
+
+body
+	+clearfix
+	margin: $margin-gap
+	font:
+		size: $font-size
+
+.button
+	background: $red
+
+	&.green
+		background: $green
+	&:focus
+		background: rgba($red, 0.4)
+
+#page
+	@extend  .button
+	width: 1200px

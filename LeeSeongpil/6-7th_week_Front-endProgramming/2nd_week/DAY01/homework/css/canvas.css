@@ -1,0 +1,110 @@
+body {
+	overflow:scroll;
+	/*overflow: hidden;*/
+	margin: 0;
+	background: #fff
+}
+
+ul,ol {
+	list-style: none;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	position: relative;
+	margin: 0 auto;
+	width: 960px;
+}
+
+header {
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	color: #fff;
+	background: #F6A008;	
+	box-shadow: 0 4px 4px  0 rgba(0,0,0,0.5);
+}
+
+a.button {
+	position: absolute;
+	display: block;
+	right: 0;
+	top: 0;
+	padding: 0.7em 0.8em;
+	border: 2px solid #fff;
+	color: #fff;
+	transition: 0.2s;
+	border-radius: 5px;
+}
+
+a.show_canvas_button:hover {
+	transform: scale(1.2);
+}
+
+a.close_canvas_button {
+	border-radius:  0;
+}
+
+
+main {
+	height: 200vh;
+	background-color: #888;
+}
+
+.shadow {
+	position: fixed;
+	top: 0;
+	z-index: -10;
+	width: 100vw;
+	height: 100vh;
+	opacity: 0;
+	background: #333;
+	transition: 0.3s;
+}
+
+.shadow.shadow_on {
+	z-index: 20;
+	opacity: 0.2;
+}
+
+.canvas {
+	position: fixed;
+	z-index: 30;
+	top: 0;
+	right: -100%;
+	width: 400px;
+	height: 100vh;
+	color: white;
+	background: #26DF3E;
+	transition: 0.4s;
+}
+
+.canvas > .list {
+	position: absolute;
+	display: block;
+	width: 100%;
+	top: 42.375px;
+}
+
+.canvas .sub_list {
+	display: block;
+	position: absolute;
+	overflow: hidden;
+	height: 0;
+	transition: 0.4s;
+}
+
+
+
+
+.canvas.canvas_on {
+	right: 0;
+	box-shadow: -8px 0 5px 0 rgba(0,0,0,0.5);
+}
+

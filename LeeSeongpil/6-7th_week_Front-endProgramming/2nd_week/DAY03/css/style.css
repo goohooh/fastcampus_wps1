@@ -1,0 +1,22 @@
+ul:before,
+.page-header article:before,
+.page-footer ul:before,
+ul::before,
+.page-header article::before,
+.page-footer ul::before {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+ul li:first-child a {
+  display: block;
+  overflow: hidden;
+  text-indent: -9999em;
+}
+
+#page::before {
+  content: "Sass Start..";
+}
+
+/*# sourceMappingURL=style.css.map */

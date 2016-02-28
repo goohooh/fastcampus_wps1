@@ -1,0 +1,16 @@
+// 재활용 가능한 코드
+
+// clearfix 모듈
+
+%clearfix,
+%cf
+	&:before,
+	&::before
+		content: ''
+		display: block
+		clear: both
+
+%ir
+	display: block
+	overflow: hidden
+	text-indent:  -9999em

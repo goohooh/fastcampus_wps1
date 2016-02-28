@@ -1,0 +1,31 @@
+a {
+  text-decoration: none;
+  color: #fff; }
+
+.carousel {
+  position: relative;
+  overflow: hidden;
+  width: 500px;
+  height: 400px;
+  margin: 0 auto; }
+  .carousel .images {
+    width: 2000px;
+    height: 400px; }
+  .carousel a[role="button"] {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    transition: 0.2s;
+    font-size: 3rem;
+    line-height: 4rem; }
+  .carousel .to-left {
+    left: 20px; }
+  .carousel .to-right {
+    right: 20px; }
+  .carousel img {
+    float: left; }
+
+a[role="button"]:hover {
+  opacity: 0.7; }
+
+/*# sourceMappingURL=carousel.css.map */

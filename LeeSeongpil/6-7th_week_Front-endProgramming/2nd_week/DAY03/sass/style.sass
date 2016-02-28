@@ -1,0 +1,23 @@
+// import를 할수 있지만 css와 다르게 패키징이 된다. ( 브라우져에서 따로따로 불러오지 않는다 )
+
+@import module/config
+
+// +reset()
+
+#page
+	&::before
+		content: 'Sass Start..'
+
+ul
+	@extend %cf
+	li:first-child
+		a
+			@extend %ir
+
+.page-header
+	article
+		@extend %cf
+
+.page-footer
+	ul
+		@extend %cf
