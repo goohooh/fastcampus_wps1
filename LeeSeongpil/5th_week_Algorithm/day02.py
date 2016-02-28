@@ -276,7 +276,7 @@ for num in nums:
 """조합 0의 개수 2004번 """
 n, m = map(int, input().split())
 mid = n - m
-# 콤비내이션 nCm = n!/(n-m)!*m! 
+# 콤비내이션 nCm = n!/(n-m)!*m!
 def count_num(num, step):
     res = 0
     while step <= num:
