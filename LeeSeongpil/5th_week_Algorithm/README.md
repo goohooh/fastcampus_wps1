@@ -16,6 +16,8 @@
 - [2 * N 타일링 11726번](https://www.acmicpc.net/problem/11726)
 - [ROT13 11655번](https://www.acmicpc.net/problem/11655)
 - [일곱 난쟁이 2309번](https://www.acmicpc.net/problem/2309)
+- [트리 순회 1991번](https://www.acmicpc.net/problem/1991)
+- [1,2,3 더하기 9095번](https://www.acmicpc.net/problem/9095)
 
 ##day03
 - [최대공약수와 최소공배수 2609번](https://www.acmicpc.net/problem/2609)

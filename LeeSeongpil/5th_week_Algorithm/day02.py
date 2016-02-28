@@ -204,3 +204,89 @@ a.remove(fake[1])
 a.sort()
 for k in range(7):
     print(a[k])
+
+
+"""트리순회 1991번 성공"""
+n = int(input())
+nodes = {}
+for _ in range(n):
+    root, left, right = map(str, input().split())
+    nodes[root] = [left, right]
+
+# tree = nodes
+def preorder(tree, now):
+    if now != '.':
+        left = tree[now][0]
+        right = tree[now][1]
+        print(now, end='')
+        preorder(tree, left)
+        preorder(tree, right)
+    else:
+        return
+
+preorder(nodes, 'A')
+print()
+
+def inorder(tree, now):
+    if now != '.':
+        left = tree[now][0]
+        right = tree[now][1]
+        inorder(tree, left)
+        print(now, end='')
+        inorder(tree, right)
+    else:
+        return
+
+inorder(nodes, 'A')
+print()
+
+def postorder(tree, now):
+    if now != '.':
+        left = tree[now][0]
+        right = tree[now][1]
+        postorder(tree, left)
+        postorder(tree, right)
+        print(now, end='')
+    else:
+        return
+
+postorder(nodes, 'A')
+
+
+"""1,2,3 더하기 9095번 성공"""
+n = int(input())
+nums = []
+# 합으로 나타내는 방법의 수
+D = [0]*(11)
+
+for _ in range(n):
+    nums.append(int(input()))
+
+D[1] = 1
+D[2] = 2
+D[3] = 4
+D[4] = 7
+for num in range(5, 11):
+    D[num] = D[num-1] + D[num-2] + D[num-3]
+
+for num in nums:
+    print(D[num])
+
+
+"""조합 0의 개수 2004번 """
+n, m = map(int, input().split())
+mid = n - m
+# 콤비내이션 nCm = n!/(n-m)!*m! 
+def count_num(num, step):
+    res = 0
+    while step <= num:
+        res += num//step
+        step *= step
+    return res
+
+# 2와 5의 곱이 0을 만듦
+# 2와 5 중에서 최소로 들어간 것을 제출
+five = count_num(n, 5) - count_num(m,5) - count_num(mid,5)
+two = count_num(n,2) - count_num(n,2) - count_num(mid,2)
+
+print(min(two, five))
